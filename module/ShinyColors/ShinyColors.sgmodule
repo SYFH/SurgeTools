@@ -6,4 +6,4 @@
 hostname = %APPEND% shinycolors.enza.fun
 
 [Script]
-shinycolors_inject = type=http-response,pattern=(shinycolors\.enza\.fun),requires-body=1,max-size=262144,script-path=https://raw.githubusercontent.com/SYFH/SurgeTools/master/module/ShinyColors/shiny_colors_fy.js
+shinycolors_inject = type=http-response,pattern=(shinycolors\.enza\.fun),requires-body=1,max-size=262144,script-path=https://raw.githubusercontent.com/SYFH/SurgeTools/main/module/ShinyColors/shiny_colors_fy.js
